@@ -77,7 +77,6 @@ namespace Org.OpenAPITools.Model
         /// </summary>
         /// <param name="neCoordinate">neCoordinate.</param>
         /// <param name="swCoordinate">swCoordinate.</param>
-        /// <param name="type">type (default to &quot;GeofenceRectangleData&quot;).</param>
         public GeofenceRectangleData(Coordinate neCoordinate = default(Coordinate), Coordinate swCoordinate = default(Coordinate)) : base()
         {
             this.NeCoordinate = neCoordinate;

@@ -76,7 +76,6 @@ namespace Org.OpenAPITools.Model
         /// Initializes a new instance of the <see cref="GeofencePolygonData" /> class.
         /// </summary>
         /// <param name="coordinates">The coordinate of the points making up the polygon.</param>
-        /// <param name="type">type (default to &quot;GeofencePolygonData&quot;).</param>
         public GeofencePolygonData(List<Coordinate> coordinates = default(List<Coordinate>)) : base()
         {
             this.Coordinates = coordinates;

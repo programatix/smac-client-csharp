@@ -65,7 +65,7 @@ namespace Org.OpenAPITools.Client
 
         /// <summary>
         /// Defines the base path of the target API server.
-        /// Example: http://localhost:3000/v1/
+        /// Example: https://smac-poc.mcs-group.com.my/
         /// </summary>
         private string _basePath;
 
@@ -138,7 +138,7 @@ namespace Org.OpenAPITools.Client
             IDictionary<string, string> defaultHeaders,
             IDictionary<string, string> apiKey,
             IDictionary<string, string> apiKeyPrefix,
-            string basePath = "http://localhost") : this()
+            string basePath = "https://smac-poc.mcs-group.com.my/") : this()
         {
             if (string.IsNullOrWhiteSpace(basePath))
                 throw new ArgumentException("The provided basePath is invalid.", "basePath");

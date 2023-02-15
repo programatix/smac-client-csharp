@@ -1,6 +1,6 @@
 # Org.OpenAPITools.Api.UsersApi
 
-All URIs are relative to *http://localhost*
+All URIs are relative to *https://smac-poc.mcs-group.com.my/*
 
 | Method | HTTP request | Description |
 |--------|--------------|-------------|
@@ -36,7 +36,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "http://localhost";
+            config.BasePath = "https://smac-poc.mcs-group.com.my/";
             // Configure Bearer token for authorization: bearer
             config.AccessToken = "YOUR_BEARER_TOKEN";
 
@@ -124,7 +124,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "http://localhost";
+            config.BasePath = "https://smac-poc.mcs-group.com.my/";
             var apiInstance = new UsersApi(config);
             var authenticateRequest = new AuthenticateRequest(); // AuthenticateRequest |  (optional) 
 
@@ -216,7 +216,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "http://localhost";
+            config.BasePath = "https://smac-poc.mcs-group.com.my/";
             var apiInstance = new UsersApi(config);
             var emailRequest = new EmailRequest(); // EmailRequest |  (optional) 
 
@@ -306,7 +306,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "http://localhost";
+            config.BasePath = "https://smac-poc.mcs-group.com.my/";
             var apiInstance = new UsersApi(config);
             var refreshTokenRequest = new RefreshTokenRequest(); // RefreshTokenRequest |  (optional) 
 
@@ -397,7 +397,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "http://localhost";
+            config.BasePath = "https://smac-poc.mcs-group.com.my/";
             var apiInstance = new UsersApi(config);
             var registerRequest = new RegisterRequest(); // RegisterRequest |  (optional) 
 
@@ -487,7 +487,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "http://localhost";
+            config.BasePath = "https://smac-poc.mcs-group.com.my/";
             var apiInstance = new UsersApi(config);
             var emailRequest = new EmailRequest(); // EmailRequest |  (optional) 
 
@@ -577,7 +577,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "http://localhost";
+            config.BasePath = "https://smac-poc.mcs-group.com.my/";
             // Configure Bearer token for authorization: bearer
             config.AccessToken = "YOUR_BEARER_TOKEN";
 
@@ -671,7 +671,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "http://localhost";
+            config.BasePath = "https://smac-poc.mcs-group.com.my/";
             // Configure Bearer token for authorization: bearer
             config.AccessToken = "YOUR_BEARER_TOKEN";
 
@@ -758,7 +758,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "http://localhost";
+            config.BasePath = "https://smac-poc.mcs-group.com.my/";
             // Configure Bearer token for authorization: bearer
             config.AccessToken = "YOUR_BEARER_TOKEN";
 
@@ -852,7 +852,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "http://localhost";
+            config.BasePath = "https://smac-poc.mcs-group.com.my/";
             // Configure Bearer token for authorization: bearer
             config.AccessToken = "YOUR_BEARER_TOKEN";
 

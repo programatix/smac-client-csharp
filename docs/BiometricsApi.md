@@ -1,6 +1,6 @@
 # Org.OpenAPITools.Api.BiometricsApi
 
-All URIs are relative to *http://localhost*
+All URIs are relative to *https://smac-poc.mcs-group.com.my/*
 
 | Method | HTTP request | Description |
 |--------|--------------|-------------|
@@ -37,7 +37,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "http://localhost";
+            config.BasePath = "https://smac-poc.mcs-group.com.my/";
             // Configure API key authorization: apiKey
             config.AddApiKey("X-SMAC-PLATFORM-API-KEY", "YOUR_API_KEY");
             // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
@@ -133,7 +133,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "http://localhost";
+            config.BasePath = "https://smac-poc.mcs-group.com.my/";
             // Configure API key authorization: apiKey
             config.AddApiKey("X-SMAC-PLATFORM-API-KEY", "YOUR_API_KEY");
             // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
@@ -229,7 +229,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "http://localhost";
+            config.BasePath = "https://smac-poc.mcs-group.com.my/";
             // Configure API key authorization: apiKey
             config.AddApiKey("X-SMAC-PLATFORM-API-KEY", "YOUR_API_KEY");
             // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
@@ -325,7 +325,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "http://localhost";
+            config.BasePath = "https://smac-poc.mcs-group.com.my/";
             // Configure API key authorization: apiKey
             config.AddApiKey("X-SMAC-PLATFORM-API-KEY", "YOUR_API_KEY");
             // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
@@ -421,7 +421,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "http://localhost";
+            config.BasePath = "https://smac-poc.mcs-group.com.my/";
             // Configure API key authorization: apiKey
             config.AddApiKey("X-SMAC-PLATFORM-API-KEY", "YOUR_API_KEY");
             // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
@@ -517,7 +517,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "http://localhost";
+            config.BasePath = "https://smac-poc.mcs-group.com.my/";
             // Configure API key authorization: apiKey
             config.AddApiKey("X-SMAC-PLATFORM-API-KEY", "YOUR_API_KEY");
             // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
@@ -613,7 +613,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "http://localhost";
+            config.BasePath = "https://smac-poc.mcs-group.com.my/";
             // Configure API key authorization: apiKey
             config.AddApiKey("X-SMAC-PLATFORM-API-KEY", "YOUR_API_KEY");
             // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
@@ -709,7 +709,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "http://localhost";
+            config.BasePath = "https://smac-poc.mcs-group.com.my/";
             // Configure API key authorization: apiKey
             config.AddApiKey("X-SMAC-PLATFORM-API-KEY", "YOUR_API_KEY");
             // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
@@ -807,7 +807,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "http://localhost";
+            config.BasePath = "https://smac-poc.mcs-group.com.my/";
             // Configure API key authorization: apiKey
             config.AddApiKey("X-SMAC-PLATFORM-API-KEY", "YOUR_API_KEY");
             // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
@@ -907,7 +907,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "http://localhost";
+            config.BasePath = "https://smac-poc.mcs-group.com.my/";
             // Configure API key authorization: apiKey
             config.AddApiKey("X-SMAC-PLATFORM-API-KEY", "YOUR_API_KEY");
             // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
@@ -1007,7 +1007,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "http://localhost";
+            config.BasePath = "https://smac-poc.mcs-group.com.my/";
             // Configure API key authorization: apiKey
             config.AddApiKey("X-SMAC-PLATFORM-API-KEY", "YOUR_API_KEY");
             // Uncomment below to setup prefix (e.g. Bearer) for API key, if needed

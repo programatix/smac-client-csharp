@@ -1,6 +1,6 @@
 # Org.OpenAPITools.Api.ScanApi
 
-All URIs are relative to *http://localhost*
+All URIs are relative to *https://smac-poc.mcs-group.com.my/*
 
 | Method | HTTP request | Description |
 |--------|--------------|-------------|
@@ -30,7 +30,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "http://localhost";
+            config.BasePath = "https://smac-poc.mcs-group.com.my/";
             var apiInstance = new ScanApi(config);
             var scanContentListRequest = new ScanContentListRequest(); // ScanContentListRequest |  (optional) 
 
@@ -124,7 +124,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "http://localhost";
+            config.BasePath = "https://smac-poc.mcs-group.com.my/";
             var apiInstance = new ScanApi(config);
             var scanContentRequest = new ScanContentRequest(); // ScanContentRequest |  (optional) 
 

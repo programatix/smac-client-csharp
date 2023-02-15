@@ -77,7 +77,6 @@ namespace Org.OpenAPITools.Model
         /// </summary>
         /// <param name="center">center.</param>
         /// <param name="radius">The radius of the circle, in meters.</param>
-        /// <param name="type">type (default to &quot;GeofenceCircleData&quot;).</param>
         public GeofenceCircleData(Coordinate center = default(Coordinate), double radius = default(double)) : base()
         {
             this.Center = center;

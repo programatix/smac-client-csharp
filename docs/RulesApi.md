@@ -1,6 +1,6 @@
 # Org.OpenAPITools.Api.RulesApi
 
-All URIs are relative to *http://localhost*
+All URIs are relative to *https://smac-poc.mcs-group.com.my/*
 
 | Method | HTTP request | Description |
 |--------|--------------|-------------|
@@ -31,7 +31,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "http://localhost";
+            config.BasePath = "https://smac-poc.mcs-group.com.my/";
             // Configure Bearer token for authorization: bearer
             config.AccessToken = "YOUR_BEARER_TOKEN";
 
@@ -133,7 +133,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "http://localhost";
+            config.BasePath = "https://smac-poc.mcs-group.com.my/";
             // Configure Bearer token for authorization: bearer
             config.AccessToken = "YOUR_BEARER_TOKEN";
 
@@ -224,7 +224,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "http://localhost";
+            config.BasePath = "https://smac-poc.mcs-group.com.my/";
             // Configure Bearer token for authorization: bearer
             config.AccessToken = "YOUR_BEARER_TOKEN";
 
@@ -319,7 +319,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "http://localhost";
+            config.BasePath = "https://smac-poc.mcs-group.com.my/";
             // Configure Bearer token for authorization: bearer
             config.AccessToken = "YOUR_BEARER_TOKEN";
 
@@ -412,7 +412,7 @@ namespace Example
         public static void Main()
         {
             Configuration config = new Configuration();
-            config.BasePath = "http://localhost";
+            config.BasePath = "https://smac-poc.mcs-group.com.my/";
             // Configure Bearer token for authorization: bearer
             config.AccessToken = "YOUR_BEARER_TOKEN";
 
